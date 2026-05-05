@@ -1,0 +1,27 @@
+VPC ID: vpc-0c60f1655cb53a5a3
+
+--- Public Subnets ---
+Name: public-subnet-1a
+Subnet ID: subnet-0654cc51dc2097f51
+CIDR: 10.0.1.0/24
+AZ: eu-central-1a
+Auto-assign public IPv4: Yes
+
+Name: public-subnet-1b
+Subnet ID: subnet-0737aef524852bc09
+CIDR: 10.0.2.0/24
+AZ: eu-central-1b
+Auto-assign public IPv4: Yes
+
+--- Private Subnets ---
+Name: private-subnet-1a
+Subnet ID: subnet-0c26a14c6b2ddd34c
+CIDR: 10.0.11.0/24
+AZ: eu-central-1a
+Auto-assign public IPv4: No
+
+Name: private-subnet-1b
+Subnet ID: subnet-0eefb9c9ae0011c11
+CIDR: 10.0.12.0/24
+AZ: eu-central-1b
+Auto-assign public IPv4: No

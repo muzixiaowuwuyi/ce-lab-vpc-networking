@@ -1,0 +1,9 @@
+VPC Name: bootcamp-vpc
+VPC ID: vpc-0c60f1655cb53a5a3
+IPv4 CIDR: 10.0.0.0/16
+DNS Resolution: Enabled
+DNS Hostnames: Enabled
+Tenancy: Default
+Region: eu-central-1 (Frankfurt)
+Main Route Table: rtb-0770af262a8e50af1
+Main Network ACL: acl-0c7b7129b88c3774d

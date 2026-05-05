@@ -1,0 +1,18 @@
+VPC ID: vpc-0c60f1655cb53a5a3
+
+--- Public Route Table (public-rt) ---
+ID: rtb-0cf5d3d23043a4319
+Routes:
+  - 10.0.0.0/16 -> local
+  - 0.0.0.0/0 -> igw-00c2fd1a939212ac0
+Associated Subnets:
+  - public-subnet-1a
+  - public-subnet-1b
+
+--- Private Route Table (private-rt) ---
+ID: rtb-098acb05ce32240db
+Routes:
+  - 10.0.0.0/16 -> local
+Associated Subnets:
+  - private-subnet-1a
+  - private-subnet-1b
